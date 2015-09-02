@@ -1,0 +1,11 @@
+#header {
+  background-color: #666;
+  color: white;
+}
+body {
+  background-color: #003D00;
+  color: white;
+  margin: 100px;
+  padding: 80px;
+  border: 100px;
+}
